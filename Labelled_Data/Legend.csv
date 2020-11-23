@@ -1,0 +1,23 @@
+Perspective,Code,Value
+PMBOK Area,int,Integration Management
+PMBOK Area,sco,Scope Management
+PMBOK Area,sch,Schedule Management
+PMBOK Area,cost,Cost Management
+PMBOK Area,res,Resource Management 
+PMBOK Area,comm,Communucation Management
+PMBOK Area,qua,Quality Management
+PMBOK Area,risk,Risk Management
+PMBOK Area,pro,Procurement Management
+PMBOK Area,sta,Stakeholder Management
+PMBOK Area,NA,Not Applicable
+Process Group,i,Initiating
+Process Group,p,Planning
+Process Group,e,Executing
+Process Group,m,Monitoring
+Process Group,c,Closing
+Process Group,NA,Not Applicable
+Managerial-Technical,1,Managerial-level
+Managerial-Technical,0,Technical-level
+Situational-Knowledge,1,Situational-describing
+Situational-Knowledge,0,Knowledge-seeking
+Situational-Knowledge,-1,Not Applicable
